@@ -9,5 +9,6 @@ public class LinkedListProgram {
 		list.add(56);
 		list.add(30);
 		list.add(70);
-		System.out.println(list);
-	}}	
+		System.out.println("Elements are:" + "->" + list);
+	}
+}	
